@@ -1,27 +1,11 @@
-<p align='center'><img width="300px" style="display:block; margin:0 auto;" src="https://res.cloudinary.com/alvarosaburido/image/upload/v1621848301/projects/vitesome/logotype_zq9g5i.png" alt="Vitesome - Vue3 + Vite template starter">
-</p>
+![Youtube - State Management with Pinia](https://user-images.githubusercontent.com/4699008/147222402-6afb2ca9-4495-4003-bf3b-4bd6694d36b5.png)
 
-<p align='center'>
-<sub>Logo created with <a href="https://windicss.org/">Windcss logo</a> + Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> & <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>  </sub>
-</p>
 
-# Vitesome 🌬 ⛵️
+# State Management with Pinia 🌬 ⛵️
 
-> A simple opinionated Vue3 Starter Template with [Vite.js](https://vitejs.dev/)
+> Pinia is an intuitive Vue Store, lightweight, type-safe, with an incredible devtools integration and of course, a very tropical name.
 
-This template should help get you started developing with Vue 3 and Typescript in Vite in a bliss.
-
-## Features
-
-- [Vite](https://github.com/vitejs/vite) ⚡️, [Vue 3](https://github.com/vuejs/vue-next),
-- 💨 [Windi CSS](https://github.com/windicss/windicss)
-- 📦 [Components auto importing](./src/components)
-- [i18n](https://github.com/intlify/vue-i18n-next) out of the box 👩‍🎨
-- Easy to use svg icons based on [Iconify](https://iconify.design) 🔝
-- Routing with [Vue Router 4](https://github.com/vuejs/vue-router-next)
-- Deploy on Netlify
-
-<p align='center'><a href="https://vitesome.alvarosaburido.dev/"> Live Demo</a><p>
+In this tutorial, we are going to cover the basics of the library and create a basic example of a store.
 
 ## You can help me keep working on this project 💚
 
